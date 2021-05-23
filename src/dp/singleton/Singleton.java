@@ -19,7 +19,7 @@ public class Singleton {
 
 	public static void count() {
 		count++;
-		System.out.println(count);
+		System.out.println("instatiated"+count);
 		 
 	}
 	
